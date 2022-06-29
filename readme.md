@@ -20,8 +20,7 @@ ORM框架：Mybatis
 前端框架：Bootstrap
 
 
-# 在线预览
-[http://23188i98c9.51mypc.cn:28070](http://23188i98c9.51mypc.cn:28070)
+
 * 登录账户
   * 管理员账户：admin
   * 老师账户：1001
@@ -43,7 +42,7 @@ ORM框架：Mybatis
 * 使用 IntelliJ IDEA 导入项目，选择Maven项目选项，一路点击next就行。
 * 在 IntelliJ IDEA 中，运行SpringBoot启动类。
 * 运行
-![login](png/login.png)
+
 
 
 # 功能模块介绍

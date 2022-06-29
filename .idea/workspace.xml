@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2696437d-a97f-4f7d-9dbc-1a2767e8af01" name="默认" comment="默认">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/login.jsp" afterDir="false" />
+    <list default="true" id="2696437d-a97f-4f7d-9dbc-1a2767e8af01" name="默认" comment="项目">
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -299,7 +298,7 @@
       <workItem from="1572947514475" duration="636000" />
       <workItem from="1573008284946" duration="3071000" />
       <workItem from="1573308846523" duration="5743000" />
-      <workItem from="1656490834438" duration="2539000" />
+      <workItem from="1656490834438" duration="2847000" />
     </task>
     <task id="LOCAL-00001" summary="logback.xml">
       <created>1572664282431</created>
@@ -315,7 +314,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656491982788</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="项目">
+      <created>1656493570984</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1656493570984</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -366,7 +372,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="logback.xml" />
     <MESSAGE value="默认" />
-    <option name="LAST_COMMIT_MESSAGE" value="默认" />
+    <MESSAGE value="项目" />
+    <option name="LAST_COMMIT_MESSAGE" value="项目" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
