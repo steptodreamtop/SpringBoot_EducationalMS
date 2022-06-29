@@ -27,7 +27,9 @@
 	<div class="container" id="top">
 		<div class="row" style="margin-top: 280px; ">
 			<div class="col-md-4"></div>
-			<div class="col-md-4" id="login-box">
+			<div class="col-md-4" style="background:rgb(0 0 0 / 8%)" id="login-box">
+				<div style="font-size: 30px;text-align: center">教务管理系统</div>
+				<p></p>
 				<form class="form-horizontal" role="form" action="/login" id="from1" method="post">
 				  <div class="form-group">
 				    <label for="userID" class="col-sm-3 control-label">用户id</label>
@@ -57,7 +59,7 @@
 				</form>
 			</div>
 			<div class="col-md-4"></div>
-		</div>		
+		</div>
 	</div>
 </body>
 
